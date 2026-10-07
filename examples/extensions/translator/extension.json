@@ -1,0 +1,11 @@
+{
+  "id": "demo-translator",
+  "name": "示例翻译扩展（依赖问候扩展）",
+  "version": "1.1.0",
+  "apiVersion": "1.0",
+  "className": "ext.demo.TranslatorExtension",
+  "dependencies": {
+    "demo-greeter": "[1.0,2.0)"
+  },
+  "configDefaults": {}
+}

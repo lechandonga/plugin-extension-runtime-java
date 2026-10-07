@@ -1,0 +1,11 @@
+{
+  "id": "demo-greeter",
+  "name": "示例问候扩展",
+  "version": "1.0.0",
+  "apiVersion": "1.0",
+  "className": "ext.demo.GreeterExtension",
+  "dependencies": {},
+  "configDefaults": {
+    "greeting": "你好"
+  }
+}
