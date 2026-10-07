@@ -1,0 +1,11 @@
+{
+  "id": "echo",
+  "name": "Echo 示例扩展",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "implementation": "com.github.lechandonga.pluginextensionruntimejava.demo.EchoExtension",
+  "dependencies": [],
+  "config": {
+    "greeting": "hello from manifest"
+  }
+}
